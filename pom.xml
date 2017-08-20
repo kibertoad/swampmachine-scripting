@@ -6,7 +6,7 @@
   <version>1.0.0-SNAPSHOT</version>
   <artifactId>swampmachine-scripting</artifactId>
   <name>Swampmachine Scripting</name>
-  
+
   <build>
     <pluginManagement>
       <plugins>
